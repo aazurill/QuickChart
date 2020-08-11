@@ -1,6 +1,6 @@
 {
   "name": "Quick Chart",
-  "version": "1.0",
+  "version": "0.0.0.1",
   "description": "Quick Chart",
   "background": {
     "scripts": ["./js/popup.js", "./js/background.js", "scripts/jquery-3.5.1.min.js"],
@@ -9,7 +9,8 @@
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "32": "./images/quickchart.png"
+      "32": "./images/quickchart.png",
+      "128": "./images/quickchart128.png"
     }
   },
   "permissions": [
@@ -17,7 +18,8 @@
     "<all_urls>"
   ],
   "icons": {
-    "32": "./images/quickchart.png"
+    "32": "./images/quickchart.png",
+    "128": "./images/quickchart128.png"
   },
   "manifest_version": 2
 }
