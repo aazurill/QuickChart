@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+      body { 
+        min-width: 200px;
+        overflow-x: hidden;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        background-color: #484848
+      }
+      h1 { 
+        color: #FFFFFF
+      }
+      label { 
+        color: #FFFFFF
+      }
+      input, textarea { 
+        width: 200px; 
+      }
+      button { 
+        margin-top: 8px;
+        color: #484848
+      }
+    </style>
+    <title>Quick Chart</title>
+  </head>
+  <body>
+    <h1>Quick Chart</h1>
+    <form id="tickForm" class="form">
+      <label for="ticker">Enter Ticker Name:</label><br> 
+      <input type="text" id="ticker" name="ticker"><br>
+      <button type="submit" id="submit">Submit</button>
+    </form>
+    <script src="./js/background.js"></script>
+    <script src="./js/popup.js"></script>
+  </body>
+</html>

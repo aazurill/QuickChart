@@ -1,2 +1,2 @@
-# QuickChart
-Simple Chrome extension to quickly pull up a popup of a stock chart from Finviz
+# StockNewsBar
+Chrome Extension which presents market news in real-time at the top of users window
