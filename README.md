@@ -1,9 +1,9 @@
 ## QuickChart
 Very simple Chrome Extension which shows a popup of the user designated chart from Finviz for quick visualization while browsing the internet
 
-## Download steps: 
+## Download steps:
 
-		1. Clone the repository
+		    1. Clone the repository
 
                 2. Go to chrome://extensions
 								
@@ -11,9 +11,9 @@ Very simple Chrome Extension which shows a popup of the user designated chart fr
 									
                 4. Pin it and then use it to your hearts content!
                 
-## How to use:     
+## How to use:
 
-		1. Input the ticker you so desire to view the chart of 
+		    1. Input the ticker you so desire to view the chart of 
 								
                 2. Click submit or just press enter 
 								
