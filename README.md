@@ -19,6 +19,8 @@ Very simple Chrome Extension which shows a popup of the user designated chart fr
 								
                 3. Voila! 
                 
-![screenshot](https://user-images.githubusercontent.com/49655272/89964775-eac2cd80-dbff-11ea-9c03-a019c9089903.png)
+		
+		
+![screenshot](https://user-images.githubusercontent.com/49655272/89965059-a8e65700-dc00-11ea-89e5-8c71f08ad7ca.png)
 		
 	
