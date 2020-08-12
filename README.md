@@ -19,4 +19,5 @@ Very simple Chrome Extension which shows a popup of the user designated chart fr
 								
                 3. Voila! 
                 
-                
+		
+	
